@@ -1,4 +1,4 @@
-### Counting stars ⭐️✨
+### I'm a 10 year old happy kid 
 
 <!--
 **sinda-hichri/sinda-hichri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
