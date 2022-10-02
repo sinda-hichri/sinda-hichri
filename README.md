@@ -1,4 +1,4 @@
-### Hi there 👋
+### Counting stars ⭐️✨
 
 <!--
 **sinda-hichri/sinda-hichri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
