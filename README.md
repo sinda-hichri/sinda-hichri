@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sinda Hichri</h1>
-<h3 align="center">A 10yo Industrial Electronics Engineering Student</h3>
+<h3 align="center">An Industrial Electronics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinda-hichri&label=Profile%20views&color=0e75b6&style=flat" alt="sinda-hichri" /> </p>
 
