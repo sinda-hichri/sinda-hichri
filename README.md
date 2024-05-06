@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sinda Hichri</h1>
 <h3 align="center">An Industrial Electronics Engineering Student</h3>
-<h3 align="center">& an AI Fangirl</h3>
+<h3 align="center">& an AI Enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
